@@ -1,24 +1,19 @@
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+# Jairo Ruiz
 
-- This is
-- an unordered
-- list
+### Geography
 
-1. This is
-2. an ordered
-3. list
+I live in the city of Medellín, in the departament of Antioquia, in Colombia.
 
-Here is `some code` in the middle of a sentence.
+### Reading
 
-```
-This is
-a block
-of code
-```
+Three of my favorite books are:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+- *El amor en los tiempos del cólera* by Gabriel García
+- *El sutil arte de que te importe un carajo* by Mark Manson
+- *Ensayo sobre la ceguera* by José Saramago 
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Food
+
+1. Grill Station in Medellín.
+2. Bigotes pizzería in Medellín.
+3. The fast food in Saravena.
